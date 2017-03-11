@@ -7,7 +7,7 @@ title: 我见青山多妩媚
 subtitle: 料青山、见我应如是
 description:
 author: 守拙
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
